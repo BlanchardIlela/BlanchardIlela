@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
 <p align="left">- 🔭 I’m currently working on BlogApps<br>- 🌱 I’m currently learning ReactJs<br>- 🤔 I’m looking for help with Posts<br>- 💬 Ask me about Full Stack<br>- 📫 How to reach me: blancilela@gmail.com</p>
 
 ###
